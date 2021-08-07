@@ -3,8 +3,7 @@ import socket
 import random
 import sys
 def usage():
-
-os.system("clear")
+         os.system("clear")
 
 print("""
 
