@@ -10,7 +10,7 @@ cara menggunakan nya di termux:
 6. cd Danger_DDos-Attack
 7. ls 
 8. python2 Danger_DDos-Attack.py
-9. python2 Danger_DDos-Attack.py [IP Target kalian] [port target] [DDos yang ingndi kirim]
+9. python2 Danger_DDos-Attack.py [IP Target kalian] [port target] [DDos yang ingin di kirim]
 
 ketikan ini tanpa tanpa tanda kurung
 
