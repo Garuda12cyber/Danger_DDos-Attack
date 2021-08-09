@@ -2,6 +2,12 @@ import time
 import socket
 import random
 import sys
+import shutil
+import os 
+
+os.system("clear") 
+os.system("termux-open-url https://youtube.com/channel/uc5qattgpidzabvoskwkcytq")
+
 def usage():
     print "\033[1;31m                      ..-------.`"
     print "\033[1;31m                `--::-..........-:::--`"
