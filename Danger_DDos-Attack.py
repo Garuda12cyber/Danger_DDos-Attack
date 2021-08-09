@@ -3,8 +3,6 @@ import socket
 import random
 import sys
 def usage():
-    os.system("clear")
-    os.system("termux-open-url  https://youtube.com/channel/UC5qaTtGpIDZABVOSKwKcYtQ")
     print "\033[1;31m                      ..-------.`"
     print "\033[1;31m                `--::-..........-:::--`"
     print "\033[1;31m             .-:-.`     ````````    `.-:-."
