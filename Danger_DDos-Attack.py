@@ -2,9 +2,9 @@ import time
 import socket
 import random
 import sys
-os.system("clear")
-os.system("termux-open-url  https://youtube.com/channel/UC5qaTtGpIDZABVOSKwKcYtQ  ")
 def usage():
+    os.system("clear")
+    os.system("termux-open-url  https://youtube.com/channel/UC5qaTtGpIDZABVOSKwKcYtQ
     print "\033[1;31m                      ..-------.`"
     print "\033[1;31m                `--::-..........-:::--`"
     print "\033[1;31m             .-:-.`     ````````    `.-:-."
