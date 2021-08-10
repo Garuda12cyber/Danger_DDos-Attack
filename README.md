@@ -16,3 +16,4 @@ ketikan ini tanpa tanpa tanda kurung
 
 contoh : python2 Danger_DDos-Attack.py 2134.24.53.4.52 3897 33536
 
+ini hanya bisa di jalankan di termux
